@@ -1,8 +1,8 @@
-import './App.css';
+import './app.css';
 import './css/cabecalho.css';
 import './css/corpo.css';
-import Cabecalho from './components/Cabecalho';
-import Corpo from './components/Corpo';
+import Cabecalho from './components/cabecalho';
+import Corpo from './components/corpo';
 
 function App() {
   return (
