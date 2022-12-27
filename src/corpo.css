@@ -1,0 +1,107 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.produtos {
+  display: flex;
+  flex-direction: column;
+  margin-left: 74px;
+  margin-top: 45px;
+  margin-right: 74px;
+  border: solid 1px #e1e1e1;
+  border-radius: 20px;
+}
+
+.corpo {
+  display: flex;
+  margin-left: 31px;
+  align-items: center;
+}
+
+.corpo button {
+  display: flex;
+  align-items: center;
+  background: #428ccb;
+  border: none;
+  border-radius: 10px;
+  color: #ffffff;
+  margin-left: 720px;
+}
+
+.corpo button tag1 {
+  font-weight: 400;
+  font-size: 40px;
+  margin: 14px 0 14px 22px;
+}
+
+.corpo button tag2 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin-left: 19px;
+  margin-right: 40px;
+}
+
+.produto {
+  font-size: 30px;
+}
+
+.canditados {
+  font-size: 14px;
+  margin-left: 37px;
+  width: 107px;
+}
+
+.cabecalho-produto {
+  display: flex;
+  font-size: 16px;
+}
+
+.cabecalho-nome {
+  margin-left: 27px;
+}
+
+.cabecalho-categoria {
+  margin-left: 605px;
+}
+
+.cabecalho-avaliação {
+  margin-left: 189px;
+}
+
+.cabecalho-acoes {
+  margin-left: 157px;
+}
+
+.corpo-nav {
+  display: flex;
+  width: 1284px;
+  height: 75px;
+  align-items: center;
+}
+
+.imagem-produto {
+  width: 45px;
+  height: 45px;
+  margin: 23px 15px 23px 15px;
+}
+
+.nome-produto {
+  margin-left: 22px;
+}
+
+.categoria-produto {
+  margin-left: 357px;
+}
+
+.avaliacao {
+  margin-left: 144px;
+  width: 104px;
+}
+
+.ações-editar {
+  margin-left: 116px;
+}
+
+.ações-apagar {
+  margin-left: 16px;
+}
