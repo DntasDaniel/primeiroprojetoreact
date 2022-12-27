@@ -5,7 +5,7 @@ function cabecalho(){
  	<header className="cabecalhoPrincipal">
 		<div className="container">
 			<h1 className="cabecalhoPrincipal-titulo">
-                <img src='/logo192.png'></img>
+                <img src='/logo.png'></img>
 				<a href="#">Lojinha Mime</a>
 			</h1>
 

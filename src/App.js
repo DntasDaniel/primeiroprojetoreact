@@ -1,6 +1,6 @@
 import './App.css';
-import './cabecalho.css';
-import './corpo.css';
+import './css/cabecalho.css';
+import './css/corpo.css';
 import Cabecalho from './components/Cabecalho';
 import Corpo from './components/Corpo';
 
