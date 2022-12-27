@@ -5,8 +5,8 @@ function cabecalho(){
  	<header className="cabecalhoPrincipal">
 		<div className="container">
 			<h1 className="cabecalhoPrincipal-titulo">
-                <img src='/logo.png'></img>
-				<a href="#">Lojinha Mime</a>
+                <img className="logo"src='/logo.png'></img>
+				<a className= "nomeLoja"href="#">Lojinha Mime</a>
 			</h1>
 
 			<nav className="cabecalhoPrincipal-nav">

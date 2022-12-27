@@ -9,7 +9,19 @@
   padding: 20px 0;
 }
 
+.logo {
+  margin-left: 64.76px;
+  width: 122.49px;
+  height: 122.49px;
+}
+
+.nomeLoja {
+  margin-left: 19.76px;
+}
+
 .cabecalhoPrincipal-titulo {
+  display: flex;
+  align-items: center;
   font-weight: bold;
   font-size: 2em;
   margin-bottom: 20px;
@@ -22,6 +34,7 @@
 
 .cabecalhoPrincipal-nav {
   display: flex;
+  margin-right: 78px;
 }
 
 .cabecalhoPrincipal-nav-link {
